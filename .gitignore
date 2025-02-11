@@ -1,6 +1,8 @@
 target/
-intellij/
+.idea/
 
+pom.xml.bak
+*.iml
 ._*
 .DS_Store
 .AppleDouble

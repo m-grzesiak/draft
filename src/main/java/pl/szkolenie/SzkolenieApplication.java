@@ -1,4 +1,4 @@
-package pl.test.szkolenie;
+package pl.szkolenie;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
